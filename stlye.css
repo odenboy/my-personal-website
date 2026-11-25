@@ -236,6 +236,9 @@ span {
   75%, 95% {
     content: "Aspiring Game Developer";
   }
+  75%, 95% {
+    content: "rematch seller";
+  }
 }
 
 @media (max-width: 1000px) {
